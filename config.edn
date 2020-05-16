@@ -1,0 +1,5 @@
+{:wibeeer
+ {:frequency-seconds 60
+  :requests [["192.168.XX.XXX" [:fase3_p_activa :fase2_p_activa]]
+             ["192.168.XX.XXX" [:fase2_p_activa]]]
+  }}
